@@ -5,10 +5,12 @@ export default {
     extend: {
       colors: {
         secondary: {
-          DEFAULT: '#f2f2f2',
-          hover: '#e5e5e5',
-          border: '#d3d3d3',
-          text: '#818181',
+          DEFAULT: "#f2f2f2",
+          hover: "#e5e5e5",
+          border: "#d3d3d3",
+          text: "#818181",
+          dark: "#0f0f0f",
+          ["dark-hover"]: "#030303",
         },
       },
     },
