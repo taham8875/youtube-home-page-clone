@@ -1,8 +1,10 @@
-import React from 'react'
+import PageHeader from "./layout/PageHeader"
 
 const App = () => {
   return (
-    <div>App</div>
+    <div className="max-h-screen flex flex-col">
+      <PageHeader />
+    </div>
   )
 }
 
