@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import YoutubeButton from "../components/YoutubeButton";
+import YoutubeButton from "./YoutubeButton";
 import { ArrowLeft, Mic, Search } from "lucide-react";
 
 interface PageHeaderRightIconsProps {

@@ -1,7 +1,7 @@
 import { useState } from "react";
-import PageHeaderRightIcons from "./PageHeaderRightIcons";
-import PageHeaderMenuIconAndLogo from "./PageHeaderMenuIconAndLogo";
-import PageHeaderSearchForm from "./PageHeaderSearchForm";
+import PageHeaderRightIcons from "../components/PageHeaderRightIcons";
+import PageHeaderMenuIconAndLogo from "../components/PageHeaderMenuIconAndLogo";
+import PageHeaderSearchForm from "../components/PageHeaderSearchForm";
 
 const PageHeader = () => {
   const [showFullWidthSearch, setShowFullWidthSearch] = useState(false);

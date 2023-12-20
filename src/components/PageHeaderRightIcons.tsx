@@ -1,4 +1,4 @@
-import YoutubeButton from "../components/YoutubeButton";
+import YoutubeButton from "./YoutubeButton";
 import { Bell, Mic, Search, Upload, User } from "lucide-react";
 
 interface PageHeaderRightIconsProps {
@@ -26,10 +26,10 @@ const PageHeaderRightIcons = ({
       >
         <Search strokeWidth={1} />
       </YoutubeButton>
-      <YoutubeButton variant="ghost" size="icon" className="md:hidden">
+      <YoutubeButton variant="ghost" size="icon" className="hidden sm:flex md:hidden">
         <Mic strokeWidth={1} />
       </YoutubeButton>
-      <YoutubeButton variant="ghost" size="icon">
+      <YoutubeButton variant="ghost" size="icon" className="hidden sm:flex">
         <Upload strokeWidth={1} />
       </YoutubeButton>
       <YoutubeButton variant="ghost" size="icon">
