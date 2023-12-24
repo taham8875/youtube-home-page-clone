@@ -32,7 +32,7 @@ YouTube Home Page Clone With Tailwind, React, and TypeScript
 
 This is a YouTube Home Page Clone built with Tailwind, React, and TypeScript.
 
-![YouTube Home Page Clone](YouTube Home Page Clone.png)
+![YouTube Home Page Clone](YouTube%20Home%20Page%20Clone.png)
 
 - ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
