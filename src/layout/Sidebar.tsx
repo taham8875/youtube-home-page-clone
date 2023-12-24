@@ -1,5 +1,5 @@
 import { useSidebarContext } from "../contexts/sidebarContext";
-import SmallSidebar from "../components/smallSidebar";
+import SmallSidebar from "../components/SmallSidebar";
 import LargeSidebar from "../components/LargeSidebar";
 
 const Sidebar = () => {

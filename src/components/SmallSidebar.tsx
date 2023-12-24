@@ -1,5 +1,4 @@
 import { Home, Repeat, Clapperboard, Library } from "lucide-react";
-import React from "react";
 import SmallSidebarItem from "./SmallSidebarItem";
 import { useSidebarContext } from "../contexts/sidebarContext";
 
